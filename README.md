@@ -1,11 +1,10 @@
 # METACRAFTERS_SOLIDITY
 
-This is Solidity's final project. This simple program taught us how to create, mint, and burn tokens. The purpose of this program is to serve as a final challenge for everyone who is interested in learning and wants to get a feel for how Solidity works.
+This is Solidity's final project. This simple program taught us how to create, mint, and burn tokens. The purpose of this program is to serve as a last challenge for everyone interested in learning and wanting to get a feel for how Solidity works.
 
 # DESCRIPTION
 
-This program is simply written in Solidity, a programming language used for developing smart contracts on the Ethereum blockchain. The contract has two functions that burn and mint the token you created. This program serves as a simple and straightforward challenge to Solidity programming and can be used as a reviewer for more complex projects in the future.
-
+This program is written in Solidity, a programming language for developing smart contracts on the Ethereum blockchain. The contract has two functions burn and mint the token you created. This program serves as a simple challenge to Solidity programming and can be used as a reviewer for more complex projects in the future.
 
 # GETTING STARTED
 
@@ -14,7 +13,7 @@ https://remix.ethereum.org/#lang=en&optimize=false&runs=200&evmVersion=null&vers
 
 # EXECUTING THE PROGRAM
 
-Once you are on the Remix website, create a new file and name it 'MyToken.sol'. Then paste the code below:
+Once on the Remix website, create a new file and name it 'MyToken.sol'. Then paste the code below:
 
 // SPDX-License-Identifier: MIT
 pragma solidity 0.8.18;
